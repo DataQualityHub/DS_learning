@@ -1,4 +1,4 @@
-# So you want to learn more Data Science?
+# Data Science courses on Learning Hub
 
 ## Coding Practices
 
