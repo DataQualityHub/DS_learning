@@ -1,5 +1,9 @@
 # Data Science courses on Learning Hub
 
+The courses below are names of training courses hosted on the [Learning Hub](https://learninghub.ons.gov.uk/my/).
+To access them, log in the Learning Hub, go to 'Find Learning', then 'Show filters' and paste the name of the 
+course in the 'Course name' field.
+
 ## Coding Practices
 
 1. Best Practice in Programming
@@ -35,7 +39,7 @@
 
 1. Introduction to Python
 2. Python - Data Types
-3. Python - Improting Data
+3. Python - Importing Data
 4. Pyhon - DataFrames, Manipulation, and Cleaning
 5. Dates and Times in Python
 6. R and Python Workbooks
